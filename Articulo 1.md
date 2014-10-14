@@ -25,7 +25,7 @@ En Chile por otro lado, presenta la misma problemática de equilibrar el crecimi
 
 Para enfrentar estas incertidumbres se propone la política basada en la evidencia (PBE). En vez de buscar políticas óptimas, el marco de análisis de la PBE propone la búsqueda sistemática de políticas públicas robustas. Los procedimientos de la PBE permiten elaborar, mediante el consenso político fundado en la evaluación empírica, propuestas técnicamente correctas y políticamente aceptables para cualquier futuro plausible. 
 
-![(Parejà, 2006)](http://https://lh3.googleusercontent.com/-f_nPPDrMBxw/VDygZWC_wzI/AAAAAAAAAwo/CUBHl1xAkdM/w933-h587-no/PBE_proceso.png)
+![(Parejà, 2006)](https://lh3.googleusercontent.com/-f_nPPDrMBxw/VDygZWC_wzI/AAAAAAAAAwo/CUBHl1xAkdM/w933-h587-no/PBE_proceso.png)
 
 La figura 3 presenta el proceso característico de la política basada en la evidencia (PBE). Con el fin de ordenar el proceso en una secuencia lógica podemos dividir el proceso de elaboración de una PBE en tres fases: diseño de la propuesta de reforma, contraste empírico del proyecto, y evaluación (Davies, 2004). Si se comparan ambas figuras se puede apreciar que lo característico de la PBE es que estas tres fases, que constituyen la esencia del algoritmo científico, se insertan dentro del proceso político tradicional. En ningún caso lo sustituyen. El algoritmo científico tiene como finalidad esencial el aprendizaje a partir del contraste con la realidad. Sólo añade calidad al proceso de diseño institucional.
 
