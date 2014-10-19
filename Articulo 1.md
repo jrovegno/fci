@@ -30,7 +30,12 @@ Para enfrentar estas incertidumbres se propone la política basada en la evidenc
 La figura 3 presenta el proceso característico de la política basada en la evidencia (PBE). Con el fin de ordenar el proceso en una secuencia lógica podemos dividir el proceso de elaboración de una PBE en tres fases: diseño de la propuesta de reforma, contraste empírico del proyecto, y evaluación (Davies, 2004). Si se comparan ambas figuras se puede apreciar que lo característico de la PBE es que estas tres fases, que constituyen la esencia del algoritmo científico, se insertan dentro del proceso político tradicional. En ningún caso lo sustituyen. El algoritmo científico tiene como finalidad esencial el aprendizaje a partir del contraste con la realidad. Sólo añade calidad al proceso de diseño institucional.
 
 ## Casos reales de aplicación de PBE en Chile ##
+Dos casos interesantes y recientes de la legislación chilena, son la Reforma Tributaria ya aprobada y la Propuesta de Reforma del Código de Aguas.
 
+El caso de la Reforma Tributario, fue interesante el análisis basado en datos hecho por [Leonardo Soto](http://about.me/leo.soto), pues se da cuenta de la importancia que una [reforma transparente a la ciudadanía, debe ir documentada claramente con supuestos, cálculos y datos](http://arreglandoelmundo.leosoto.com/los-expertos-y-su-falta-de-transparencia/), luego trata de [realizar un análisis con la información públicamente disponible](http://arreglandoelmundo.leosoto.com/si-no-es-el-fut-entonces-que/) y finalmente desarrolla un [simulador de impuestos](http://continuum.cl/simulador-impuestos/), donde muestra la diferencia aproximada de la situación antes y después de la reforma.
+Lamentablemente luego de todas las modificaciones hechas en el Senado, se requeriría invertir mucho tiempo, para adaptar el análisis y la simulación hecha por Leo Soto a la condiciones finales de la reforma.
+
+En un próximo artículo se verá el caso de la Reforma del Código de Aguas, se analizará la información empírica previa, enfocándose principalmente en el problema de gestión de los derechos de agua en la Provincia de Petorca.
 
 ## Referencias ##
 
