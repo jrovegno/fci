@@ -12,6 +12,10 @@ La base del proceso que produce la inteligencia se construye analizando relacion
 ## Reproducibilidad computacional y la era de una sociedad guiada por datos ##
 Teniendo clara la importancia del acceso a la información y datos, es posible desarrollar el debate informado en la sociedad, el cual dependerá cada vez más de nuestra capacidad de comunicar información basada en datos. Y para que esta comunicación sea un diálogo verdaderamente eficaz, es necesario que los argumentos presentados sobre la base de datos, puedan ser deconstruidos, analizados, refutados o ampliados por otros. Dado que estos argumentos en la práctica a menudo dependen fundamentalmente de la ejecución de código (si una hoja de cálculo o un programa adecuado), significa que realmente necesitamos herramientas para comunicarse de manera efectiva, con narrativas que combinan código, los datos y la interpretación de los resultados.
 
+![(Peng 2011)-Reproducibility Spectrum](https://lh3.googleusercontent.com/-FKr35NwO_PM/VDygb3HNu-I/AAAAAAAAAww/DF_fecm0qmU/w829-h262-no/Reproducibility%2BSpectrum.png)
+
+La figura anterior de (Peng, 2011) muestra los niveles de reproducibilidad en las publicaciones científicas, mismo estándar podría aplicarse a las reformas políticas.
+
 ## ¿Qué son las evidencias? ##
 Son resultados de experimentos y/o observaciones objetivas, verificables y reproducibles de la realidad, que permiten validar o refutar una idea. En general los datos brutos son considerados evidencia, una vez que son interpretados de una forma que reflejan la veracidad de una idea.
 
@@ -27,7 +31,7 @@ Para enfrentar estas incertidumbres se propone la política basada en la evidenc
 
 ![(Parejà, 2006)](https://lh3.googleusercontent.com/-f_nPPDrMBxw/VDygZWC_wzI/AAAAAAAAAwo/CUBHl1xAkdM/w933-h587-no/PBE_proceso.png)
 
-La figura 3 presenta el proceso característico de la política basada en la evidencia (PBE). Con el fin de ordenar el proceso en una secuencia lógica podemos dividir el proceso de elaboración de una PBE en tres fases: diseño de la propuesta de reforma, contraste empírico del proyecto, y evaluación (Davies, 2004). Si se comparan ambas figuras se puede apreciar que lo característico de la PBE es que estas tres fases, que constituyen la esencia del algoritmo científico, se insertan dentro del proceso político tradicional. En ningún caso lo sustituyen. El algoritmo científico tiene como finalidad esencial el aprendizaje a partir del contraste con la realidad. Sólo añade calidad al proceso de diseño institucional.
+La figura 3 (Parejà, 2006) presenta el proceso característico de la política basada en la evidencia (PBE). Con el fin de ordenar el proceso en una secuencia lógica podemos dividir el proceso de elaboración de una PBE en tres fases: diseño de la propuesta de reforma, contraste empírico del proyecto, y evaluación (Davies, 2004). Si se comparan ambas figuras se puede apreciar que lo característico de la PBE es que estas tres fases, que constituyen la esencia del algoritmo científico, se insertan dentro del proceso político tradicional. En ningún caso lo sustituyen. El algoritmo científico tiene como finalidad esencial el aprendizaje a partir del contraste con la realidad. Sólo añade calidad al proceso de diseño institucional.
 
 ## Casos reales de aplicación de PBE en Chile ##
 Dos casos interesantes y recientes de la legislación chilena, son la Reforma Tributaria ya aprobada y la Propuesta de Reforma del Código de Aguas.
@@ -44,5 +48,7 @@ En un próximo artículo se verá el caso de la Reforma del Código de Aguas, se
 - [The core of science: Relating evidence and ideas](http://http://undsci.berkeley.edu/article/coreofscience_01)
 - [Department of Defense, 2007. Joint Publication 2-0, Joint Intelligence.](http://http://www.dtic.mil/doctrine/new_pubs/jp2_0.pdf)
 - [Parejà, R.P., 2006. Política basada en la evidencia para la renovación del Estado del bienestar.](http://http://dialnet.unirioja.es/servlet/articulo?codigo=3135981)
+- Peng, R.D., 2011. Reproducible Research in Computational. Science 334, 1226–1227. doi:10.1126/science.1213847
+
 
 
