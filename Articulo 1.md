@@ -15,7 +15,7 @@ Teniendo clara la importancia del acceso a la información y datos, es posible d
 ## ¿Qué son las evidencias? ##
 Son resultados de experimentos y/o observaciones objetivas, verificables y reproducibles de la realidad, que permiten validar o refutar una idea. En general los datos brutos son considerados evidencia, una vez que son interpretados de una forma que reflejan la veracidad de una idea.
 
-##Política basada en la evidencia el siguiente paso ##
+## Política basada en la evidencia (PBE) el siguiente paso ##
 En la primera década del siglo XXI, algunos países Europeos como España, tienen el desafío de mejorar el crecimiento económico y la productividad, lo cual requiere introducir reformas en algunas de las instituciones del Estado del bienestar. La renovación del Estado del bienestar plantea dificultades técnicas y políticas, pero la mayor dificultad consiste en resolver ambas simultáneamente ya que los procedimientos científicos y democráticos discurren por cauces separados y tienen objetivos distintos. El análisis económico busca soluciones óptimas que difícilmente serán realizables. Los procedimientos democráticos buscan soluciones de compromiso, que difícilmente serán óptimas. Cualquier reforma
 social innovadora levanta profundas incertidumbres sobre sus consecuencias a medio y largo plazo. 
 
@@ -29,6 +29,9 @@ Para enfrentar estas incertidumbres se propone la política basada en la evidenc
 
 La figura 3 presenta el proceso característico de la política basada en la evidencia (PBE). Con el fin de ordenar el proceso en una secuencia lógica podemos dividir el proceso de elaboración de una PBE en tres fases: diseño de la propuesta de reforma, contraste empírico del proyecto, y evaluación (Davies, 2004). Si se comparan ambas figuras se puede apreciar que lo característico de la PBE es que estas tres fases, que constituyen la esencia del algoritmo científico, se insertan dentro del proceso político tradicional. En ningún caso lo sustituyen. El algoritmo científico tiene como finalidad esencial el aprendizaje a partir del contraste con la realidad. Sólo añade calidad al proceso de diseño institucional.
 
+## Casos reales de aplicación de PBE en Chile ##
+
+
 ## Referencias ##
 
 - [Entrevista a Felipe Heusser, director de Vota Inteligente (Pt. I/III)](http://www.betazeta.com/irock/chw/post/entrevista-a-felipe-heusser-director-de-vota-inteligente-pt-iiii/)
@@ -38,39 +41,3 @@ La figura 3 presenta el proceso característico de la política basada en la evi
 - [Parejà, R.P., 2006. Política basada en la evidencia para la renovación del Estado del bienestar.](http://http://dialnet.unirioja.es/servlet/articulo?codigo=3135981)
 
 
-https://www.google.com/fusiontables/data?docid=1lIJWMYzGvN80vB4Jm281RnSG-I3_4oxn353eOtqv#map:id=3
-http://nbviewer.ipython.org/github/jrovegno/fci/blob/master/Derechos-Agua-Petorca.ipynb
-https://trello.com/c/iJv0AzuZ/12-editar-articulo-derecho-de-agua-tumblr
-
-DGA revoca derechos de agua a ex ministro Pérez Yoma y otros empresarios en Petorca
-http://ciperchile.cl/2014/03/19/dga-revoca-derechos-de-agua-a-ex-ministro-perez-yoma-y-otros-empresarios-en-petorca/
-Petorca triunfa: DGA revoca derechos de agua a Edmundo Pérez Yoma y a otros empresarios
-http://www.elciudadano.cl/2014/03/24/103259/petroca-triunfa-dga-revoca-derechos-de-agua-a-edmundo-perez-yoma-y-a-otros-emprsarios/
-"Guerra del agua": Las acusaciones cruzadas que desata la sequía en la V Región
-http://www.lasegunda.com/Noticias/Impreso/2012/04/739681/las-acusaciones-cruzadas-que-desata-la-sequia-en-la-v-region
-La batalla por el derecho a la propiedad que se avecina con la reforma al Código de Aguas
-http://ciperchile.cl/2014/08/13/la-batalla-por-el-derecho-a-la-propiedad-que-se-avecina-con-la-reforma-al-codigo-de-aguas/
-
-
-http://www.eldinamo.cl/blog/es-necesario-transparentar-la-relacion-entre-dinero-y-politica/
-http://es.wikipedia.org/wiki/Corrupci%C3%B3n_en_Chile
-https://www.google.com/fusiontables/data?docid=1lIJWMYzGvN80vB4Jm281RnSG-I3_4oxn353eOtqv#map:id=3
-http://www.elciudadano.cl/2014/03/24/103259/petroca-triunfa-dga-revoca-derechos-de-agua-a-edmundo-perez-yoma-y-a-otros-emprsarios/
-http://www.lasegunda.com/Noticias/Impreso/2012/04/739681/las-acusaciones-cruzadas-que-desata-la-sequia-en-la-v-region
-http://ciperchile.cl/2014/04/09/experto-en-manejo-de-aguas-%E2%80%9Calguien-tiene-que-tener-autoridad-y-poder-para-regular%E2%80%9D/
-http://ciperchile.cl/2014/08/13/la-batalla-por-el-derecho-a-la-propiedad-que-se-avecina-con-la-reforma-al-codigo-de-aguas/
-http://ciperchile.cl/2014/06/04/jorge-wachholtz-el-ingeniero-hidraulico-que-hizo-fortuna-con-las-aguas-de-chile/
-http://ciperchile.cl/2013/12/12/como-se-fraguo-la-insolita-legislacion-que-tiene-a-chile-al-borde-del-colapso-hidrico/
-http://ciperchile.cl/2013/12/10/la-historia-del-discreto-empresario-que-se-transformo-en-el-zar-de-las-aguas-en-chile/
-http://congresoabierto.cl/proyectos/7929-04
-http://congresoabierto.cl/proyectos/7913-04
-http://ciperchile.cl/2011/03/01/las-gestiones-conjuntas-de-los-gobiernos-de-chile-y-ee-uu-para-salvar-a-termoelectrica-de-aes-gener/
-http://www.leychile.cl/Navegar?idNorma=1009801
-http://www.elmostrador.cl/sin-editar/2010/10/07/la-llegada-de-cristina-bitar-a-la-termoelectrica-castilla/
-http://www.paula.cl/entrevista/chile-segun-cristina-bitar/
-http://www.elmostrador.cl/sin-editar/2010/10/07/la-llegada-de-cristina-bitar-a-la-termoelectrica-castilla/
-http://www.betazeta.com/irock/chw/post/entrevista-a-felipe-heusser-director-de-vota-inteligente-pt-iiii/
-http://undsci.berkeley.edu/article/coreofscience_01
-http://undsci.berkeley.edu/article/howscienceworks_01
-
-http://arreglandoelmundo.leosoto.com/los-expertos-y-su-falta-de-transparencia/
