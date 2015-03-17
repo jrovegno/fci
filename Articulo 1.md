@@ -1,4 +1,4 @@
-# Política Basada en Evidencia #
+# Política Basada en Evidencia (PBE)#
 
 Artículo modificado del [originalmente publicado en Blog de FCI](http://blog.ciudadanointeligente.org/post/100835674134/politica-basada-en-evidencia-pt-i "PBE"). 
 
@@ -41,7 +41,7 @@ Dos casos interesantes y recientes de reformas a la legislación chilena, donde 
 
 El caso de la Reforma Tributario, fue interesante el análisis basado en datos hecho por [Leo Soto](http://about.me/leo.soto), pues se da cuenta de la importancia que una [reforma sea transparente a la ciudadanía, debe ir documentada claramente con supuestos, cálculos y datos](http://arreglandoelmundo.leosoto.com/los-expertos-y-su-falta-de-transparencia/), luego trata de [realizar un análisis con la información públicamente disponible](http://arreglandoelmundo.leosoto.com/si-no-es-el-fut-entonces-que/) y finalmente desarrolla un [simulador de impuestos](http://continuum.cl/simulador-impuestos/), donde muestra la diferencia aproximada de la situación antes y después de la reforma.
 
-Lamentablemente luego de todas las modificaciones hechas en el Senado, se requeriría invertir mucho tiempo, para adaptar el análisis y la simulación hecha por Leo Soto, a la condiciones finales con la que fue promulgada la reforma. Esta misma dificultad de traducir las modificaciones finales en un código simple y claro, son indicios de una reforma de diseño pobre, ofuscada y ambigua, que difícilmente permita que se evalúe en el futuro, la efectividad de los cambios que se hicieron.
+Lamentablemente luego de todas las modificaciones hechas en el Senado, se requeriría invertir mucho tiempo, para adaptar el análisis y la simulación hecha por Leo Soto, a las condiciones finales con que fue promulgada la reforma. Esta misma dificultad de traducir las modificaciones finales en un código simple y claro, son indicios de una reforma de diseño pobre, ofuscada y ambigua, que difícilmente permita que se evalúe en el futuro, la efectividad de los cambios que se hicieron.
 
 En un próximo artículo se verá el caso de la Reforma del Código de Aguas, se analizará la información empírica previa, enfocándose principalmente en el problema de gestión de los derechos de agua en la Provincia de Petorca.
 
